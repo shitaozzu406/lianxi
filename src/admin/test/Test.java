@@ -11,6 +11,8 @@ public class Test {
      JobInfo j=new JobInfo();
      List<JobInfo> lists=j.jobinfo.showJobInfoList();
      System.out.println(lists.toString());
+
+asdasdddddddddddddddddddddddddddd
 	}
 
 }
